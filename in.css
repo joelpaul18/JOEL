@@ -1,0 +1,68 @@
+.body{
+    background-color: black;
+   
+}
+.top{
+    color: orange;
+    font-family: Verdana, Geneva, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, sans-serif;
+    margin-left: 170px;
+    margin-top: 90px;
+}
+.para1{
+    color: #fffdfa;
+    margin-left: 170px;
+}
+.cbutton{
+    background-color: black;
+    border-color: #fffdfa;
+    border-style: solid;
+    border-radius: 20px;
+    font-size: 30px;
+    color: #fffdfa;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 11px;
+    margin-left: 170px;
+    
+}
+.cbutton:hover{
+    color: white;
+    border-color: orange;
+   
+}
+.img1{
+    margin-left: 1055px;
+    margin-top: -300px;
+}
+.img2{
+    margin-left: -830px;
+    margin-top: 0px;
+}
+.img3{
+    margin-top: 35px;
+    margin-left: 6px;
+}
+.img4{
+    margin-left: 5px;
+}
+.end{
+    color: orange;
+    font-family: 'Times New Roman';
+    margin-left: 325px;
+    margin-top: 10px;
+    font-size: 45px;
+}
+.gbutton{
+    background-color: black;
+    border-color: #fffdfa;
+    border-style: solid;
+    border-radius: 20px;
+    font-size: 30px;
+    color: #fffdfa;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: -5px;
+    margin-left: 570px;
+}
+.gbutton:hover{
+    color: whitesmoke;
+    border-color: orange;
+}
